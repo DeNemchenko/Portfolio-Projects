@@ -1,4 +1,4 @@
-# Capstone-Project---The-Battle-of-Neighborhoods 
+# Capstone-Project---Opening a new Japanese Restaurant in New York 
 
 # This is the final assignment of the Applied Data Science Capstone Course by IBM on Coursera
 
